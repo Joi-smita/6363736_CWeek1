@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayerManager.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1dde8b540583138e277113e31663a23d5ec67d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74fd669fb93fd25cdb717a6755f9f16b7eaa95e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayerManager.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayerManager.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
